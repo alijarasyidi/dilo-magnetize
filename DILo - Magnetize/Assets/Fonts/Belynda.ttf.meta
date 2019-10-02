@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f028eef5703dee540b7b32428b41d262
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Belynda
+  fontNames:
+  - Belynda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61c3bdd2880934f4c9210fd5faf9c4e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
