@@ -1,7 +1,7 @@
 # Magnetize
 Created on Unity 2018.1.0f2 <br>
 Platform : PC <br>
-Genre : Puzzle
+Genre : Puzzle, Acade
 
 ## Description
 Core gameplay of Magnetize game with simple level system.
